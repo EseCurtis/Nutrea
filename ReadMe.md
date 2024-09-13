@@ -26,6 +26,8 @@ Nutrea is an app designed to help users remember to eat and suggest the best com
   - Option to skip or proceed.
 - **User Input:** Gather basic information like dietary preferences, allergies, and daily nutritional goals.
 - - **User Input:** User should be able to select an ai model avatar called a companion. like a personal assistant
+ 
+
 
 ### 2. Home Screen (Dashboard):
 - **Purpose:** Central hub for daily meal suggestions, reminders, and tracking and tips
@@ -37,6 +39,16 @@ Nutrea is an app designed to help users remember to eat and suggest the best com
   - **Bottom Section:** 
     - **Quick Actions:** Buttons for "Add Food", "View History", and "Settings".
 - **UX Considerations:** Ensure easy navigation with a clean layout and prominent action buttons.
+
+  ### 1A. Story Board Screen:
+- **Purpose:** Allow user see his or her -progress in a nice map layout like candycrush map
+- **Design:** 
+  - Simple, visually engaging slides with brief descriptions.
+  - 
+- user can tap any point on the map to see his or her innfo on that particular day
+**Action that leads to the sceen:** when user clicks on top bar item with progress bar stuff it takes them here...
+  [SEE HERE FOR REFERENCES-1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpageflows.com%2Fpost%2Fios%2Fcreating-an-account%2Fcandy-crush-saga%2F&psig=AOvVaw34jTqmoGsSnq8XAjQie7tP&ust=1726346403037000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLizz9PjwIgDFQAAAAAdAAAAABAE)
+[SEE HERE FOR REFERENCES-2](https://dribbble.com/shots/24846012-Grancarty-Grocery-Store-Mobile-App-UI-Kit)
 
 ### 3. Meal Suggestion Screen:
 - **Purpose:** Display detailed meal combinations based on user input.
