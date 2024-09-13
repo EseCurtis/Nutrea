@@ -4,6 +4,8 @@
 ## Overview:
 Nutrea is an app designed to help users remember to eat and suggest the best combination of foods each day based on the foods they list. The app will be built using Next.js and aims to provide users with a seamless experience in managing their daily nutrition.
 
+[**CLICK HERE FOR UI SAMPLE**](https://dribbble.com/shots/23547747-sandow-UI-Kit-AI-Fitness-Nutrition-App)
+
 ## Brand Elements:
 
 ### Brand Name:
@@ -23,9 +25,10 @@ Nutrea is an app designed to help users remember to eat and suggest the best com
   - Simple, visually engaging slides with brief descriptions.
   - Option to skip or proceed.
 - **User Input:** Gather basic information like dietary preferences, allergies, and daily nutritional goals.
+- - **User Input:** User should be able to select an ai model avatar called a companion. like a personal assistant
 
 ### 2. Home Screen (Dashboard):
-- **Purpose:** Central hub for daily meal suggestions, reminders, and tracking.
+- **Purpose:** Central hub for daily meal suggestions, reminders, and tracking and tips
 - **Design:** 
   - **Top Section:** Displays the current date, with a progress bar showing the user's daily nutrition goal completion.
   - **Middle Section:** 
