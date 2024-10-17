@@ -1,0 +1,53 @@
+import { LinearGradient } from 'expo-linear-gradient';
+import { cssInterop } from 'nativewind';
+import Svg from 'react-native-svg';
+
+export * from './app-bar';
+export * from './avatar';
+export * from './avatar-stack';
+export * from './button';
+export * from './checkbox';
+export * from './circle-pulse';
+export * from './circular-slider';
+export { default as colors } from './colors';
+export * from './focus-aware-status-bar';
+export * from './hexagon-shape';
+export * from './icons/chevron';
+export * from './icons-grid';
+export * from './image';
+export * from './image-background';
+export * from './input';
+export * from './list';
+export * from './list-item';
+export * from './modal';
+export * from './notch';
+export * from './progress-bar';
+export * from './scale-slider';
+export * from './search-bar';
+export * from './select';
+export * from './tab-bar';
+export * from './text';
+export * from './utils';
+
+// export base components from react-native
+export {
+  ActivityIndicator,
+  Pressable,
+  ScrollView,
+  TouchableOpacity,
+  View,
+} from 'react-native';
+export { SafeAreaView } from 'react-native-safe-area-context';
+
+//Apply cssInterop to Svg to resolve className string into style
+cssInterop(Svg, {
+  className: {
+    target: 'style',
+  },
+});
+
+cssInterop(LinearGradient, {
+  className: {
+    target: 'style',
+  },
+});
