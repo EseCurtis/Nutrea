@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "my-app-scheme",
+    "userInterfaceStyle": "automatic",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "name": "expo-tuts",
+    "slug": "expo-tuts"
+  }
+}
